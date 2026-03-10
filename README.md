@@ -1,6 +1,6 @@
 <h2 align="center" > 
 	Challenge_2-TelecomX_BR (Alura + ONE)
-<br><br><img src="https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/blob/main/Images/logo_data_science.jpeg" width="60%">
+<br><br><img src="https://github.com/carlos-000-carlos/Challenge_2-TelecomX_BR-Cabral/blob/main/Images/logo_telecom_1.jpeg" width="60%">
 </h2>
 
 # 📊 Análise de Churn - TelecomX BR
@@ -40,7 +40,7 @@ A análise focou-se em encontrar correlações estatísticas entre os perfis dos
 
 1. Clone o repositório:
    
-   `git clone [https://github.com/teu-usuario/teu-repositorio.git](https://github.com/teu-usuario/teu-repositorio.git)`
+   `git clone [https://github.com/carlos-000-carlos/Challenge_2-TelecomX_BR-Cabral.git](https://github.com/carlos-000-carlos/Challenge_2-TelecomX_BR-Cabral.git)`
 
 2. Abra o arquivo TelecomX_BR.ipynb no Google Colab ou Jupyter Notebook.
 
