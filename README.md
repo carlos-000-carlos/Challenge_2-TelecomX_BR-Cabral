@@ -59,7 +59,7 @@ A análise focou-se em encontrar correlações estatísticas entre os perfis dos
 
 ## 📁 Acesso ao projeto
 
-Caso queira saber mais sobre o projeto, sinta-se á vontade para clonar este projeto através do link: https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/archive/refs/heads/main.zip.
+Caso queira saber mais sobre o projeto, sinta-se á vontade para clonar este projeto através do link: https://github.com/carlos-000-carlos/Challenge_2-TelecomX_BR-Cabral/archive/refs/heads/main.zip.
 
 <br><h2> :office_worker: Autores </h2>
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/84159269?u=3ec320aa0a7da5793fb2f3cf485f78ec0c2787a6&v=4" width=115><br><sub>Carlos Cabral</sub>](https://github.com/carlos-000-carlos) |
