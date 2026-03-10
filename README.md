@@ -1,13 +1,13 @@
+<h2 align="center" > 
+	Challenge_2-TelecomX_BR (Alura + ONE)
+<br><br><img src="https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/blob/main/Images/logo_data_science.jpeg" width="60%">
+</h2>
+
 # 📊 Análise de Churn - TelecomX BR
 
 Este projeto consiste numa análise exploratória de dados (EDA) focada na evasão de clientes (Churn) de uma empresa de telecomunicações. O objetivo é identificar padrões de comportamento e variáveis críticas que influenciam a retenção de clientes, utilizando o dataset extraído da API TelecomX.
 
-## 🛠️ Tecnologias Utilizadas
-
-* **Linguagem:** Python
-* **Bibliotecas de Manipulação:** Pandas, JSON, Requests.
-* **Visualização de Dados:** Matplotlib, Seaborn, Plotly Express.
-* **Ambiente de Desenvolvimento:** Google Colab.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTANTE%20APERFEIÇOAMENTO&color=GREEN&style=for-the-badge)<br><br>
 
 ## 📂 Estrutura do Projeto
 
@@ -47,3 +47,18 @@ A análise focou-se em encontrar correlações estatísticas entre os perfis dos
 3. Instale as dependências necessárias:
 
    `pip install pandas seaborn plotly requests`
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Python
+* **Bibliotecas de Manipulação:** Pandas, JSON, Requests.
+* **Visualização de Dados:** Matplotlib, Seaborn, Plotly Express.
+* **Ambiente de Desenvolvimento:** Google Colab.
+
+## 📁 Acesso ao projeto
+
+Caso queira saber mais sobre o projeto, sinta-se á vontade para clonar este projeto através do link: https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/archive/refs/heads/main.zip.
+
+<br><h2> :office_worker: Autores </h2>
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/84159269?u=3ec320aa0a7da5793fb2f3cf485f78ec0c2787a6&v=4" width=115><br><sub>Carlos Cabral</sub>](https://github.com/carlos-000-carlos) |
+| :---: |
