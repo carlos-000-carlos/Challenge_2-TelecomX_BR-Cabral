@@ -48,12 +48,14 @@ A análise focou-se em encontrar correlações estatísticas entre os perfis dos
 
    `pip install pandas seaborn plotly requests`
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-* **Linguagem:** Python
-* **Bibliotecas de Manipulação:** Pandas, JSON, Requests.
-* **Visualização de Dados:** Matplotlib, Seaborn, Plotly Express.
-* **Ambiente de Desenvolvimento:** Google Colab.
+* **Linguagem:** &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;&nbsp;
+* **Bibliotecas** (Manipulação de dados)**:** &nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />&nbsp;  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />&nbsp;&nbsp;
+* **Visualização de Dados:** <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />&nbsp; <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />&nbsp;&nbsp;
+* **Ambiente** (Ambiente de desenvolvimento)**:** &nbsp;&nbsp;<img src="https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" /><br><br>
+
 
 ## 📁 Acesso ao projeto
 
